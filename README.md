@@ -10,14 +10,14 @@ its hangeuls Hello World!
 
 ## How To Use?
 
-Brainfuck > is "ㄱ"
-Brainfuck < is "ㄴ"
-Brainfuck + is "ㄷ"
-Brainfuck - is "ㄹ"
-Brainfuck [ is "ㅁ"
-Brainfuck ] is "ㅂ"
-Brainfuck . is "ㅅ"
-Brainfuck ,  is "ㅇ"
+Brainfuck > is "ㄱ"\n
+Brainfuck < is "ㄴ"\n
+Brainfuck + is "ㄷ"\n
+Brainfuck - is "ㄹ"\n
+Brainfuck [ is "ㅁ"\n
+Brainfuck ] is "ㅂ"\n
+Brainfuck . is "ㅅ"\n
+Brainfuck ,  is "ㅇ"\n
 
 ## 안녕 Hangeul!
 한글은 브레인퍽 컴파일러를 쓰고있는 언어입니다
@@ -29,11 +29,11 @@ Brainfuck ,  is "ㅇ"
 ```
 
 ## 사용법
-브레인퍽의 > 은 "ㄱ" 이에요!
-브레인퍽의 < 은 "ㄴ" 이에요!
-브레인퍽의 + 은 "ㄷ" 이에요!
-브레인퍽의 - 은 "ㄹ" 이에요!
-브레인퍽의 [ 은 "ㅁ" 이에요!
-브레인퍽의 ] 은 "ㅂ" 이에요!
-브레인퍽의 . 은 "ㅅ" 이에요! 
-브레인퍽의 , 은 "ㅇ" 이에요!
+브레인퍽의 > 은 "ㄱ" 이에요!\n
+브레인퍽의 < 은 "ㄴ" 이에요!\n
+브레인퍽의 + 은 "ㄷ" 이에요!\n
+브레인퍽의 - 은 "ㄹ" 이에요!\n
+브레인퍽의 [ 은 "ㅁ" 이에요!\n
+브레인퍽의 ] 은 "ㅂ" 이에요!\n
+브레인퍽의 . 은 "ㅅ" 이에요!\n
+브레인퍽의 , 은 "ㅇ" 이에요!\n
